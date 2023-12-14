@@ -1,0 +1,27 @@
+{
+  "name": "backend-rest-template-users-ts",
+  "version": "1.0.0",
+  "description": "# Objetivo       - Crear un proyecto node con typescript que sirva como template para administracion de usuarios     - Utilizando una estructura routes - controllers - models",
+  "main": "index.js",
+  "scripts": {
+    "start": "ts-node src/server.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/edwinarroyolopez/backend-rest-template-users-ts.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/edwinarroyolopez/backend-rest-template-users-ts/issues"
+  },
+  "homepage": "https://github.com/edwinarroyolopez/backend-rest-template-users-ts#readme",
+  "dependencies": {
+    "@types/express": "^4.17.21",
+    "@types/node": "^20.10.4",
+    "express": "^4.18.2",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.3.3"
+  }
+}
